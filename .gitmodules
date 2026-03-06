@@ -5,3 +5,6 @@
 [submodule "mssearchr"]
 	path = mssearchr
 	url = https://github.com/andreysamokhin/mssearchr
+[submodule "rdkitpyr"]
+	path = rdkitpyr
+	url = https://github.com/andreysamokhin/rdkitpyr
